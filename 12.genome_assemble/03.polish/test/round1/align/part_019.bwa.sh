@@ -1,0 +1,2 @@
+/share/app/bwa/0.7.17/bwa mem -t 8 /ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/test/assemble_cyclone.fa /ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/data/part_019_fq1.gz /ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/data/part_019_fq2.gz | samtools view -@ 8 -F 0x4 -b - | samtools fixmate -m -@ 8 - - | samtools sort -@ 8 -o part_019.sort.bam -
+echo "$?: bwa align task state!"

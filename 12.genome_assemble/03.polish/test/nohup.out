@@ -1,0 +1,12 @@
+the reference index existing!
+All bwa align jobs was qsub!
+All qsub tasks was ran done!
+The samtools merge jobs was qsub!
+All qsub tasks was ran done!
+The polish jobs was qsub!
+All qsub tasks was ran done!
+All works was done!!!
+Traceback (most recent call last):
+  File "../polished_v2.py", line 157, in <module>
+    ref2,outdir2 = current_dir+'/'+outdir+'/'+result+'/polish_genome.fa','round2'
+NameError: name 'result' is not defined

@@ -1,0 +1,2 @@
+part_019	/ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/data/part_019_fq1.gz	/ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/data/part_019_fq2.gz
+part_020	/ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/data/part_020_fq1.gz	/ldfssz1/ST_EARTH/P18Z10200N0107/panyouliang/my_work/00.Tools/12.genome_assemble/03.polish/data/part_020_fq2.gz
